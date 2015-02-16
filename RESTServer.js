@@ -3,7 +3,6 @@
 var http = require('http');
 var fs = require('fs');
 var rESTMethods = require('./RESTMethods');
-console.log(rESTMethods);
 var routeArray = [];
 
 module.exports = {
